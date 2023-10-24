@@ -4,7 +4,7 @@
 ## ► Processes the incoming source data with ksqlDB, watching for important changes 
 ## ► Then streams out live, custom notifications via Telegram
 
-## Dependencies
+## ► Dependencies
 - confluent_kafka >= 1.8
 - python-dateutil >= 2.8
 - types-requests >= 2.27
